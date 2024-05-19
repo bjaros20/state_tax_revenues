@@ -1,7 +1,7 @@
 # state_tax_revenues
 Panel of US state collections from major taxes.  Data is from the US Census Bureau (Census of States), which is compiled into state time series by FRED. 
 
-The Census Bureau [collects]([url](https://www.census.gov/programs-surveys/stc.html)) state and local tax revenues in the Census of States. These revenues are summarized into 5 broad categories and 25 subcategories.  FRED then collects this information and compiles it into a time series for each of the collections.  FRED allows you to create individual lists with collections of interest for each state (For example, Alaska's main collections page is linked [here]([url](https://fred.stlouisfed.org/release/tables?eid=151977&rid=143))).  
+The Census Bureau [collects]((https://www.census.gov/programs-surveys/stc.html)) state and local tax revenues in the Census of States. These revenues are summarized into 5 broad categories and 25 subcategories.  FRED then collects this information and compiles it into a time series for each of the collections.  FRED allows you to create individual lists with collections of interest for each state (For example, Alaska's main collections page is linked [here]((https://fred.stlouisfed.org/release/tables?eid=151977&rid=143))).  
 
 I compiled a list for each of the states and included the following nine collections named, followed by their series id: 
 
