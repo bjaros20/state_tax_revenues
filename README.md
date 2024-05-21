@@ -19,6 +19,6 @@ The collections are in thousands of dollars and are not seasonally adjusted.
 
 _____
 
-These data files are annual data pulled from FRED in February 2024.  I then include the R-code that filtered, merged, and transposed data from the individual xls files for each state into one long panel "FRED_SALT_Rev_Feb_2024.csv".  I did this because I do a lot of work in the state tax space and I know others do as well.  Therefore, I post it for ease of use to other researchers who want to use it. I generally commit and work in my own private folders on state corporate income tax and tax incentives.  If you are interested in those topics, feel free to reach out.  
+These data files are annual data pulled from FRED in February 2024.  I then include the R-code that filtered, merged, and transposed data from the individual xls files for each state into one long panel "FRED_SALT_Rev_Feb_2024.csv". I generally commit and work in my own private folders on state corporate income tax and tax incentives.  If you are interested in those topics, feel free to reach out.  
 
 Lastly, I will try to keep the files as up to date as possible.  The original data is publicly available and updated by the Census Bureau and FRED.
